@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Adrian !!</h1>
 <h3 align="center">Desenvolvedor web Front-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianamerico&label=Profile%20views&color=0e75b6&style=flat" alt="adrianamerico" /> </p>
-
 * Desde o inicio de minha Adolescência sou apaixonado por tecnologia e entusiasta de hardware e é engraçado de que tudo isso começou por um computador velho que quebrava bastante e estudando sobre como concerta-lo comecei a gostar de como as coiass funcionavam de baixo dos panos e em o quão fácil é explodir um computador ou destruir ele com um overclock errado.
 Com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**.
 
