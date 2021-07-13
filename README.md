@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor web Front-end</h3>
 
 No inicio de minha Adolescência graças a computador velho que quebrava bastante e estudando sobre como concerta-lo, comecei a gostar de como as coiasas funcionavam de baixo dos panos e em o quão fácil é explodir um computador ou destruir ele com um overclock errado. 
-E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**. é engraçado de que tudo isso começou por um
+E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**.
 
 - 🔭 Projetos em desenvolvendo **Labex, Moveit e Reddit**
 
