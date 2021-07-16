@@ -11,7 +11,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
 - Estudante Web Full-stack [Labenu](https://www.labenu.com.br/)
 
 - 💬 Se você tiver alguma dúvida sobre algumas dessas linguagens ou framework, sinta-se a vontade de entrar em contato comigo;
--  **Javascript, React, NodeJs, SASS, Styled Components, NextJs**
+-  **HTML, CSS, Javascript, ReactJs, NodeJs, SASS, Styled Components, NextJs**
 
 - 📫 Contato: **adrianamerico01@gmail.com**
 
