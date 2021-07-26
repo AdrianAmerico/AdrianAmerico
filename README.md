@@ -15,7 +15,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
 
 - 📫 Contato: **adrianamerico01@gmail.com**
 
-- ⚡ Fatos interessantes **Por muito pouco não segui a carreira de biólogo.**
+- ⚡ Fatos interessantes: **Por muito pouco não segui a carreira de biólogo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
