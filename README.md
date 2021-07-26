@@ -5,7 +5,7 @@ No inicio de minha Adolescência graças a computador velho ~~que quebrava basta
 E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**.
 
 - 🔭 Projetos em desenvolvendo **Labex, Moveit, Reddit e mais alguns outros, porém é segredo**
-Por conta das aulas e projetos da Labenu e o ultimo período da minha faculdade os projetos seguem bem parados até eu ter mais tempo livre.
+- Por conta das aulas e projetos da Labenu e o ultimo período da minha faculdade os projetos seguem bem parados até eu ter mais tempo livre.
 - 🌱 Estudando **Node.Js**
 
 - Estudante Web Full-stack [Labenu](https://www.labenu.com.br/)
