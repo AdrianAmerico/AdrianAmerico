@@ -35,7 +35,6 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
 
 ---
 
-<br/>
   <h1 align="center">
     <a>
       <img src="https://gifimage.net/wp-content/uploads/2018/04/luxray-gif-6.gif">
