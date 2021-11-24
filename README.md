@@ -1,30 +1,68 @@
-<h1 align="center">Olá, eu sou o Adrian !!</h1>
-<h3 align="center">Desenvolvedor web Front-end</h3>
+## Olá, eu sou Adrian Américo !
 
-No inicio de minha Adolescência graças a computador velho ~~que quebrava bastante~~ e estudando sobre como conserta-lo, comecei a gostar de como as coisas funcionavam por debaixo dos panos e em quão fácil é explodir um computador ou destrui-lo com um overclock errado. 
-E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**.
+-  <strong> Who am I? </strong> </br>  ...
 
-- Por conta das aulas e projetos da Labenu e o ultimo período da minha faculdade os projetos seguem bem parados até eu ter mais tempo livre.
-- 🌱 Estudando **Node.Js**
 
-- Estudante Web Full-stack [Labenu](https://www.labenu.com.br/)
+-  <strong> An interesting fact about me </strong> </br> ..
 
-- 💬 Se você tiver alguma dúvida sobre algumas dessas linguagens ou framework, sinta-se a vontade de entrar em contato comigo;
--  **HTML, CSS, Javascript, ReactJs, NodeJs, SASS, Styled Components, NextJs**
 
-- 📫 Contato: **adrianamerico01@gmail.com**
+- <strong> Bachelor's degree </strong> </br> ...
 
-- ⚡ Fatos interessantes: **Por muito pouco não segui a carreira de biólogo.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrian-américo-a79453195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-américo-a79453195" height="30" width="40" /></a>
-<a href="https://instagram.com/sanzukun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanzukun_" height="30" width="40" /></a>
-</p>
+- 🌱
+-  <strong> Studying </strong> </br> ..
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianamerico&show_icons=true&locale=en" alt="adrianamerico" /></p>
+- <strong> Looking for </strong> </br> ...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianamerico&" alt="adrianamerico" /></p>
+
+-  <strong> I'm looking to collaborate </strong> </br>  ...
+
+
+- 🎮 <strong> Hobbies </strong> </br>  ...
+
+
+- <strong> ...</strong>
+
+  <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/adrian-américo-a79453195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</br>
+</br>
+
+<div>
+  <a href="https://github.com/AdrianAmerico">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianAmerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAmerico&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="AdrianAmerico-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img align="center" alt="AdrianAmerico-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="AdrianAmerico-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="AdrianAmerico-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="AdrianAmerico-MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+    <br/>
+    <br/>
+  <img align="center" alt="AdrianAmerico-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="AdrianAmerico-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="AdrianAmerico-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="AdrianAmerico-Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="AdrianAmerico-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="AdrianAmerico-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<br/>
+<br/>
+
+<div> 
+
+---
+
+  <h1 align="center">
+    <a>
+      <img src="https://gifimage.net/wp-content/uploads/2018/04/luxray-gif-6.gif">
+    </a>
+  </h1>
+
+</div>
+
