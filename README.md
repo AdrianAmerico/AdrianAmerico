@@ -32,13 +32,9 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
 </div>
 <div> 
 <br/>
-<br/>
-<br/>
 
 ---
-  
-<br/>
-<br/>
+
 <br/>
   <h1 align="center">
     <a>
