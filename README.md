@@ -1,28 +1,16 @@
-## Olá, eu sou Adrian Américo !
+# Olá, eu sou Adrian !
 
--  <strong> Who am I? </strong> </br>  ...
-
-
--  <strong> An interesting fact about me </strong> </br> ..
-
+-  <strong> Quem sou eu ? </strong> </br>  ...
 
 - <strong> Bachelor's degree </strong> </br> ...
 
-
-- 🌱
 -  <strong> Studying </strong> </br> ..
 
-
-- <strong> Looking for </strong> </br> ...
-
-
--  <strong> I'm looking to collaborate </strong> </br>  ...
-
+- <strong> Procurando por </strong> </br> ...
 
 - 🎮 <strong> Hobbies </strong> </br>  ...
 
-
-- <strong> ...</strong>
+- <strong> ... </strong>
 
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/adrian-américo-a79453195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
