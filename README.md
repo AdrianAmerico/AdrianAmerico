@@ -30,13 +30,13 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
   <img align="center" alt="AdrianAmerico-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="AdrianAmerico-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-<br/>
-
 <div> 
-
+  <br/>
 <br/>
+<br/>
+
 ---
+  
 
   <h1 align="center">
     <a>
