@@ -13,7 +13,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="AdrianAmerico-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="AdrianAmerico-sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
       
@@ -44,6 +44,6 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
     </a>
   </h1>
   
-  ![snake gif](https://github.com/AdrianAmerico/AdrianAmerico/blob/output/github-contribution-grid-snake.gif)
+<!--   ![snake gif](https://github.com/AdrianAmerico/AdrianAmerico/blob/output/github-contribution-grid-snake.gif) -->
 </div>
 
