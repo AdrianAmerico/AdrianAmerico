@@ -1,5 +1,4 @@
-# Olá, eu sou o Adrian !!
-## Desenvolvedor Web Full-Stack
+## Olá, eu sou o Adrian !
 
 -  <strong> Quem sou eu ? </strong> </br>  ...
 
