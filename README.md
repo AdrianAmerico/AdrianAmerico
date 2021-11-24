@@ -1,21 +1,11 @@
 ## Olá, eu sou o Adrian !
 
--  <strong> Quem sou eu ? </strong> </br>  ...
-
-- <strong> Bachelor's degree </strong> </br> ...
-
--  <strong> Studying </strong> </br> ..
-
-- <strong> Procurando por </strong> </br> ...
-
-- 🎮 <strong> Hobbies </strong> </br>  ...
-
-- <strong> ... </strong>
+-  <strong> Quem sou eu ? </strong> </br> No inicio de minha Adolescência graças a computador velho ~~que quebrava bastante~~ e estudando sobre como conserta-lo, comecei a gostar de como as coisas funcionavam por debaixo dos panos e em quão fácil é explodir um computador ou destrui-lo com um overclock errado. 
+E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco e estou me capacitando no desenvolvimento web Full-stack com o bootcamp da **Labenu**.
 
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/adrian-américo-a79453195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</br>
 </br>
 
 <div align="center">
