@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Adrian !!</h1>
+<h1 align="center" border="none">Olá, eu sou o Adrian !!</h1>
 <h2 align="center">Desenvolvedor Web Full-Stack</h2>
 
 -  <strong> Quem sou eu ? </strong> </br>  ...
