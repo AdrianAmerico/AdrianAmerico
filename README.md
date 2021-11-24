@@ -31,10 +31,9 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
   <img align="center" alt="AdrianAmerico-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div> 
-<br/>
 
 ---
-
+  
   <h1 align="center">
     <a>
       <img src="https://gifimage.net/wp-content/uploads/2018/04/luxray-gif-6.gif">
