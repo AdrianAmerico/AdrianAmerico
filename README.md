@@ -43,5 +43,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, com a pandêmia 
       <img src="https://gifimage.net/wp-content/uploads/2018/04/luxray-gif-6.gif">
     </a>
   </h1>
+  
+  ![snake gif](https://github.com/AdrianAmerico/AdrianAmerico/blob/output/github-contribution-grid-snake.gif)
 </div>
 
