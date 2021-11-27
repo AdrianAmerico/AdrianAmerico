@@ -20,21 +20,28 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="AdrianAmerico-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img align="center" alt="AdrianAmerico-sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-      
-  <img align="center" alt="AdrianAmerico-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="AdrianAmerico-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="AdrianAmerico-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="AdrianAmerico-MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    <br/>
-    <br/>
-  <img align="center" alt="AdrianAmerico-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="AdrianAmerico-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="AdrianAmerico-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="AdrianAmerico-Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="AdrianAmerico-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="AdrianAmerico-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img align="center" alt="Graphql" src="https://camo.githubusercontent.com/9ad071f3788625b60549260fb99aeb8516ce3ae6ed2506e88663a2b6375c7d34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="JWT" src="https://camo.githubusercontent.com/4590c0af4aeb1b75233885f86e80c1da8cb2afd401173a40e41370f5cad5db20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73">
+  <img align="center" alt="nestjs" src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="next" src="https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Javscript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="react-router" src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="gimp" src="https://camo.githubusercontent.com/6a30fceee4f3a0337d34135886cfc3bd782b167dc9825ad85f6f49c7c317c4a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47696d702d3635374438423f7374796c653d666f722d7468652d6261646765266c6f676f3d67696d70266c6f676f436f6c6f723d464646464646">
+  <img align="center" alt="figma" src="https://camo.githubusercontent.com/9a8ccd8ae319ddac9934db226e7834d7e1c61a31076e7d7c04ecb5bf352967aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="heroku" src="https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="prisma" src="https://camo.githubusercontent.com/fd75ec52ca1707ab6cc176248dd53e0002d4bbc528e964612fe434f8bf9e3ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="ubuntu" src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465">
 </div>
 <div> 
 
