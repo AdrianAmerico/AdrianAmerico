@@ -19,7 +19,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block" align="center"><br>
+  <div align="center">
   <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
