@@ -10,15 +10,13 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/adrian-américo-a79453195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-</br>
-
+<br/>
 <div align="center">
   <a href="https://github.com/AdrianAmerico">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<br/>
   <div align="center">
   <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
