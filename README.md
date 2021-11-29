@@ -9,7 +9,6 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
 <div align="center">
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/adrian-américo-a79453195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 
 </br>
@@ -19,6 +18,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adrianamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
   <div align="center">
   <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -44,6 +44,7 @@ E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmi
   <img align="center" alt="ubuntu" src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="docker" src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"> 
 </div>
+ 
 <div> 
 
 ---
