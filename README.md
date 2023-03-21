@@ -2,9 +2,11 @@
 
  ### Quem sou eu ?
 
-No inicio de minha Adolescência graças a computador velho ~~que quebrava bastante~~ e estudando sobre como conserta-lo, comecei a gostar de como as coisas funcionavam por debaixo dos panos e em quão fácil é explodir um computador ou destrui-lo com um overclock errado. 
-Tive experiencias de programação mas foi ao iniciar a minha graduação em Análise e Desenvolvimento de Sistemas pela Universiade Joaquim Nabuco que veio meu interesse em programação.
-E agora sou apaixonado por tecnologia e entusiasta de hardware, e com a pandêmia, participei do bootcamp da **Labenu** e hoje sou um desenvolvedor Web Full-stack.
+Desde jovem, sempre tive fascínio em descobrir como as coisas funcionam por debaixo dos panos. Esse interesse foi despertado ao consertar meu primeiro computador velho e, a partir daí, comecei a estudar e aperfeiçoar minhas habilidades em hardware. No entanto, com o passar do tempo, descobri que a programação é minha verdadeira paixão e decidi seguir nessa área.
+
+Atualmente, sou apaixonado por tecnologia e entusiasta de hardware, com experiência em programação e formação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco. Para aprimorar ainda mais minhas habilidades em desenvolvimento de software e aplicar técnicas avançadas na construção de sistemas complexos, estou realizando uma pós-graduação em Engenharia de Software.
+
+Durante a pandemia, participei do bootcamp da Labenu e aprimorei minhas habilidades como desenvolvedor Web Full-stack. Essa experiência foi fundamental para consolidar meu conhecimento em programação e desenvolvimento de software, além de ter me proporcionado a oportunidade de trabalhar em projetos desafiadores e de grande impacto.
 
 <div align="center">
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
