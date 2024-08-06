@@ -2,11 +2,17 @@
 
  ### Quem sou eu ?
 
-Desde jovem, sempre tive fascínio em descobrir como as coisas funcionam por debaixo dos panos. Esse interesse foi despertado ao consertar meu primeiro computador velho e, a partir daí, comecei a estudar e aperfeiçoar minhas habilidades em hardware. No entanto, com o passar do tempo, descobri que a programação é minha verdadeira paixão e decidi seguir nessa área.
+Desde cedo, fui apaixonado por tecnologia, desmontando e montando computadores com as peças que acumulava enquanto meu pai gerenciava uma microempresa de internet. Essa paixão me levou a prestar suporte técnico durante a adolescência e a aprofundar meu conhecimento em hardware.
 
-Atualmente, sou apaixonado por tecnologia e entusiasta de hardware, com experiência em programação e formação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Joaquim Nabuco. Para aprimorar ainda mais minhas habilidades em desenvolvimento de software e aplicar técnicas avançadas na construção de sistemas complexos, estou realizando uma pós-graduação em Engenharia de Software.
+Com o início da pandemia, realizei o sonho de ingressar na faculdade, cursando Análise e Desenvolvimento de Sistemas pela UNINABUCO. Enfrentando dificuldades para encontrar vagas na área de suporte técnico, migrei meus estudos para o desenvolvimento web, onde encontrei minha verdadeira vocação.
 
-Durante a pandemia, participei do bootcamp da Labenu e aprimorei minhas habilidades como desenvolvedor Web Full-stack. Essa experiência foi fundamental para consolidar meu conhecimento em programação e desenvolvimento de software, além de ter me proporcionado a oportunidade de trabalhar em projetos desafiadores e de grande impacto.
+Atualmente, sou Desenvolvedor Front-end Pleno com experiência em React, Next.js, TypeScript e React Native. Tenho trabalhado com a implementação de arquiteturas de micro-frontends para melhorar a escalabilidade e a estabilidade dos sistemas em que atuo. Além disso, possuo certificações em CSS, HTML, JavaScript, TypeScript, React e Node.js pela Labenu, o que reforça meu compromisso em me manter atualizado com as tecnologias mais recentes.
+
+Sou uma pessoa proativa, apaixonada por tecnologia e sempre em busca de novos desafios e oportunidades de crescimento. No meu tempo livre, gosto de explorar novas ferramentas e aprender sobre novas tecnologias.
+
+Se você compartilha dessa paixão por tecnologia, hardware, software ou desenvolvimento web, sinta-se à vontade para entrar em contato. Adoraria trocar ideias e, quem sabe, colaborar em projetos interessantes.
+
+Vamos nos conectar e criar algo incrível juntos!
 
 <div align="center">
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
