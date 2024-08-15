@@ -2,17 +2,9 @@
 
  ### Quem sou eu ?
 
-Desde cedo, fui apaixonado por tecnologia, desmontando e montando computadores com as peças que acumulava enquanto meu pai gerenciava uma microempresa de internet. Essa paixão me levou a prestar suporte técnico durante a adolescência e a aprofundar meu conhecimento em hardware.
+Desenvolvedor Front-end Pleno com sólida experiência em React, Next.js, TypeScript e React Native. Graduado em Análise e Desenvolvimento de Sistemas pela UNINABUCO, com várias certificações relevantes que reforçam meu compromisso em me manter atualizado com as tecnologias mais recentes. Tenho experiência na implementação de arquiteturas de micro-frontends, design systems e na criação de interfaces de usuário eficientes e escaláveis.
 
-Com o início da pandemia, realizei o sonho de ingressar na faculdade, cursando Análise e Desenvolvimento de Sistemas pela UNINABUCO. Enfrentando dificuldades para encontrar vagas na área de suporte técnico, migrei meus estudos para o desenvolvimento web, onde encontrei minha verdadeira vocação.
-
-Atualmente, sou Desenvolvedor Front-end Pleno com experiência em React, Next.js, TypeScript e React Native. Tenho trabalhado com a implementação de arquiteturas de micro-frontends para melhorar a escalabilidade e a estabilidade dos sistemas em que atuo. Além disso, possuo certificações em CSS, HTML, JavaScript, TypeScript, React e Node.js pela Labenu, o que reforça meu compromisso em me manter atualizado com as tecnologias mais recentes.
-
-Sou uma pessoa proativa, apaixonada por tecnologia e sempre em busca de novos desafios e oportunidades de crescimento. No meu tempo livre, gosto de explorar novas ferramentas e aprender sobre novas tecnologias.
-
-Se você compartilha dessa paixão por tecnologia, hardware, software ou desenvolvimento web, sinta-se à vontade para entrar em contato. Adoraria trocar ideias e, quem sabe, colaborar em projetos interessantes.
-
-Vamos nos conectar e criar algo incrível juntos!
+Sou apaixonado por tecnologia e sempre em busca de novos desafios. No meu tempo livre, gosto de explorar novas ferramentas e aprender sobre as últimas tendências do desenvolvimento web.
 
 <div align="center">
   <a href ="mailto:adrianamerico01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
