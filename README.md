@@ -141,8 +141,8 @@ Sou apaixonado por tecnologia e sempre em busca de novos desafios. No meu tempo 
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack" width="40" height="40" /> </a>
   <img
-    src="https://camo.githubusercontent.com/10d0e95df010d3c11dced2bc9ab560e63e6c7a2a3bffa1579298421877b97cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656d69782d2532333030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72656d6978266c6f676f436f6c6f723d7768697465"
-    alt="remix" />
+src="https://camo.githubusercontent.com/10d0e95df010d3c11dced2bc9ab560e63e6c7a2a3bffa1579298421877b97cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656d69782d2532333030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72656d6978266c6f676f436f6c6f723d7768697465"
+    alt="Luxray" />
 </p>
 
 
@@ -150,6 +150,6 @@ Sou apaixonado por tecnologia e sempre em busca de novos desafios. No meu tempo 
 
   <h1 align="center">
     <a>
-      <img src="https://gifimage.net/wp-content/uploads/2018/04/luxray-gif-6.gif">
+      <img src="https://64.media.tumblr.com/456c53e0591b2d82c9b4d616364934d0/6830cb4a1c5f609e-41/s540x810/ff55f37f1244ff9333afbf6531c981624341f9fb.gifv">
     </a>
   </h1>
