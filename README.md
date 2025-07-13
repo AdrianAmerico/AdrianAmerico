@@ -2,7 +2,7 @@
 
  ### Quem sou eu ?
 
-Desenvolvedor Front-end Pleno com sólida experiência em React, Next.js, TypeScript e React Native. Graduado em Análise e Desenvolvimento de Sistemas pela UNINABUCO, com várias certificações relevantes que reforçam meu compromisso em me manter atualizado com as tecnologias mais recentes. Tenho experiência na implementação de arquiteturas de micro-frontends, design systems e na criação de interfaces de usuário eficientes e escaláveis.
+Desenvolvedor Front-end com sólida experiência em React, Next.js, TypeScript e React Native. Graduado em Análise e Desenvolvimento de Sistemas pela UNINABUCO, com várias certificações relevantes que reforçam meu compromisso em me manter atualizado com as tecnologias mais recentes. Tenho experiência na implementação de arquiteturas de micro-frontends, design systems e na criação de interfaces de usuário eficientes.
 
 Sou apaixonado por tecnologia e sempre em busca de novos desafios. No meu tempo livre, gosto de explorar novas ferramentas e aprender sobre as últimas tendências do desenvolvimento web.
 
